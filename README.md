@@ -19,7 +19,8 @@ the community.
 
   **Let's connect and make data-driven decisions together!**
 
-  <img width="45" alt="image" src="https://github.com/user-attachments/assets/befdaf7b-6eac-4f55-a356-5c7b64f3e2a3">  
+<img width="42" alt="image" src="https://github.com/user-attachments/assets/405b3317-f2c8-4049-a4a3-30a2e181bc64">
+ 
 
   **Moringa School**
 
