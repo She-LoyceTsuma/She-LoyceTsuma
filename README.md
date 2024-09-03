@@ -1,8 +1,12 @@
-  👩‍💻 **Data Scientist | Machine Learning Enthusiast | Lifelong Learner**
+👩‍💻 **Data Scientist | High-Net-Worth Client Relationship Manager | Machine Learning Enthusiast | Lifelong Learner**
  
- 🌟 Passionate about transforming data into actionable insights and driving innovation through analytics.
+🌟 Passionate about transforming data into actionable insights and driving innovation through analytics.
  
-   With a strong foundation in statistics and programming, I specialize in machine learning, data visualization, and predictive modeling.
+  With a strong foundation in statistics and programming, I specialize in machine learning, data visualization, and predictive modeling.
+
+ 🤝 As a high-net-worth client relationship manager, I leverage data-driven strategies to enhance client experiences and deliver tailored financial solutions. 
+ 
+  My expertise bridges the gap between data science and personalized service.
  
 🔍 Currently exploring advanced techniques in natural language processing and deep learning. 
 
