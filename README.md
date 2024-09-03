@@ -10,6 +10,9 @@
  
 🔍 Currently exploring advanced techniques in natural language processing and deep learning. 
 
+![image](https://github.com/user-attachments/assets/3c82ea50-920e-4987-a6f1-b6f0be5979ff)
+
+
 📊 Check out my repositories for data science projects, tutorials, and resources! 
 
 ⚡ Fun fact: ...I love collaborating on open-source projects and sharing knowledge with the community.
