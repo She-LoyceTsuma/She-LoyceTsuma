@@ -12,5 +12,9 @@ financial solutions.
 🔍 Currently, I am exploring advanced techniques in natural language processing and deep learning, and I enjoy collaborating on open-source projects and sharing knowledge with
 the community.
 
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/c6d9ab0b-8112-45fb-bc9c-50e0a0505097"> <img width="201" alt="image" src="https://github.com/user-attachments/assets/e7ef7dea-ceb9-49ba-a502-2955569a9ebf">
+
+
+
   **Let's connect and make data-driven decisions together!**
 
